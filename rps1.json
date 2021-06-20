@@ -241,8 +241,8 @@
     {
       "name": "топнуть",
       "gen": "acc",
-      "formatter_man": "\uD83D\uDC49\uD83D\uDC4C\uD83D\uDE2C | {first_user} затоптал {second_user}",
-      "formatter_woman": "\uD83D\uDC49\uD83D\uDC4C\uD83D\uDE2C | {first_user} затоптала {second_user}",
+      "formatter_man": " | {first_user} затоптал {second_user}",
+      "formatter_woman": " | {first_user} затоптала {second_user}",
       "all_ending": "сразу всех"
     }
   ]
