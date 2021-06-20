@@ -73,7 +73,7 @@
     {
       "name": "отравить",
       "gen": "acc",
-      "formatter_man": "\uD83D\uDC8A | {first_user} отравила {second_user}",
+      "formatter_man": "\uD83D\uDC8A | {first_user} отравил {second_user}",
       "formatter_woman": "\uD83D\uDC8A | {first_user} отравила {second_user}",
       "all_ending": "сразу всех"
     },
@@ -102,7 +102,7 @@
       "name": "прижать",
       "gen": "acc",
       "formatter_man": "\uD83E\uDD32 | {first_user} прижал {second_user}",
-      "formatter_woman": "\uD83E\uDD32 | {first_user} прижал {second_user}",
+      "formatter_woman": "\uD83E\uDD32 | {first_user} прижала {second_user}",
       "all_ending": "сразу всех"
     },
     {
